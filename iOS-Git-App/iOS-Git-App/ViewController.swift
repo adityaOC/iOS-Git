@@ -17,6 +17,10 @@ class ViewController: UIViewController {
     func branch1(){
         
     }
+    
+    func branch2(){
+        
+    }
 
 }
 
