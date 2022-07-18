@@ -18,8 +18,9 @@ class ViewController: UIViewController {
         //commit 1
     }
     
-    func branch2(){
+    func branch2() -> String{
         
+        return "this is branch 2"
     }
     func branch3(){
         
